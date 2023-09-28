@@ -1,6 +1,6 @@
 # Mi Proyecto Genial
 
-Este es un proyecto que te permite gestionar tus tareas de manera sencilla.
+Este es un ejemplo de un README.md
 
 ## Características
 

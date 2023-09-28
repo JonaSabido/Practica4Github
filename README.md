@@ -14,9 +14,6 @@ Este es un ejemplo de un README.md hola
 2. Ejecuta `npm install`.
 3. Inicia la aplicación con `npm start`.
 
-## Uso
-
-Visita `http://localhost:3000` en tu navegador para comenzar.
 
 ## Contribución
 

@@ -1,5 +1,5 @@
 #!/bin/bash
 echo 'hola mundo'
 echo 'como estas'
-echo 'Practica'
+echo 'Practica parte jonathan'
 echo 'texto jona'
